@@ -13,7 +13,10 @@ This project involves analyzing historical disaster data to understand trends an
 
 This project shows how machine learning and data can improve flood prediction and make it more accessible. Using a Random Forest model and Flask, combined with rainfall data and location data, the system makes flood predictions easy to understand and use. The alert system warns people if rainfall crosses safe levels, giving them time to prepare and reducing flood risks. Our project highlights the importance of data-driven solutions in addressing climate-related challenges, paving the way for more sustainable disaster management systems.
 
-Proposed System – Work Flow
+
+**Proposed System – Work Flow**
+
+
 ![image](https://github.com/user-attachments/assets/e889c97c-6971-4020-84fa-525d4f92d891)
 
 ![image](https://github.com/user-attachments/assets/fec34e5e-ea1b-49bf-85b8-ea9d778fdf20)
