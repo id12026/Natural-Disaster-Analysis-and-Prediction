@@ -1,4 +1,4 @@
-**# Natural Disaster Analysis and Prediction  **
+# Natural Disaster Analysis and Prediction 
 
 ## About the Project  
 This project focuses on analyzing and predicting natural disasters using machine learning techniques to aid in early warnings and disaster management strategies.  
