@@ -49,10 +49,6 @@ Website Images:-
 - **Y. Siddhartha Reddy** (22WU0105028)  
 - **T. Harshavardhan Reddy** (22WU0105023)  
 
-## Note  
-
-We are in the process of writing a research paper based on this project. As a result, no code or additional details have been shared in this repository. Please stay tuned for updates!  
-
 
 
 
